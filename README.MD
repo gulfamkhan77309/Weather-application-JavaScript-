@@ -8,6 +8,9 @@ It fetches real-time weather data using the OpenWeatherMap API.
 ## LIVE DEMO :- 
   https://gulfamkhan77309.github.io/Weather-application-JavaScript-/
 
+  https://weather-application-java-script.vercel.app/
+
+
 ---
 
 ## 🚀 Features
